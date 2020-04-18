@@ -1,0 +1,17 @@
+li{
+	padding-right: 15px;
+	font-size: 16px;
+	font-weight: bold;
+	color: white;
+}
+#btn{
+	background-color: #C8D4F8;
+}
+header{
+	display: flex;
+	justify-content: baseline;
+	margin-bottom: 90px;
+}
+.lol{
+	font-size: 30px;
+}
